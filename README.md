@@ -50,7 +50,7 @@ MazeQuest is a console-based maze and treasure hunt game developed using the C p
 Open Command Prompt or a terminal and execute:
 
 ```bash
-git clone https://github.com/gmustafa2909/maze_quest.git
+git clone https://github.com/farhan-ahmed573/maze_quest.git
 ```
 
 ### Step 2: Compile the Code
